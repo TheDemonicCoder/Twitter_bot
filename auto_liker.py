@@ -11,7 +11,7 @@ user = api.me()
 
 indId = 2282863
 india_trend = api.trends_place(indId)
-tweetNo = 5
+tweetNo = 7
 a =[]
 
 trndInd = api.trends_place(indId)
